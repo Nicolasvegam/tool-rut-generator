@@ -1,4 +1,4 @@
-# Generador de RUT Chileno - rutificador.vercel.app
+# Generador de RUT Chileno - rutificador.nicovega.dev
 # Última actualización: 2025-01-12
 
 # Allow all crawlers
@@ -55,7 +55,7 @@ User-agent: DotBot
 Disallow: /
 
 # Sitemap location
-Sitemap: https://rutificador.vercel.app/sitemap.xml
+Sitemap: https://rutificador.nicovega.dev/sitemap.xml
 
 # Host directive (some crawlers support this)
-Host: https://rutificador.vercel.app 
+Host: https://rutificador.nicovega.dev 

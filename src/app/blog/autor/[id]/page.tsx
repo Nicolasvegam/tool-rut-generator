@@ -33,10 +33,10 @@ export async function generateMetadata({ params }: AuthorPageProps): Promise<Met
       title: `${author.name} - ${author.profession}`,
       description: author.bio,
       type: "profile",
-      url: `https://rutificador.vercel.app/blog/autor/${author.id}`,
+      url: `https://rutificador.nicovega.dev/blog/autor/${author.id}`,
     },
     alternates: {
-      canonical: `https://rutificador.vercel.app/blog/autor/${author.id}`,
+      canonical: `https://rutificador.nicovega.dev/blog/autor/${author.id}`,
     },
   };
 }
@@ -56,9 +56,9 @@ export default function AuthorPage({ params }: AuthorPageProps) {
     name: author.name,
     jobTitle: author.profession,
     description: author.bio,
-    url: `https://rutificador.vercel.app/blog/autor/${author.id}`,
+    url: `https://rutificador.nicovega.dev/blog/autor/${author.id}`,
     sameAs: [
-      `https://rutificador.vercel.app/blog/autor/${author.id}`,
+      `https://rutificador.nicovega.dev/blog/autor/${author.id}`,
     ],
   };
 

@@ -22,7 +22,7 @@ export default function Home() {
     alternativeName: "RUT Chile Generator",
     description:
       "Genera hasta 35 RUT chilenos válidos instantáneamente con dígito verificador correcto. Copiar con 1 clic, descarga masiva, 100% gratis.",
-    url: "https://rutificador.vercel.app",
+    url: "https://rutificador.nicovega.dev",
     applicationCategory: "UtilityApplication",
     applicationSubCategory: "GeneratorApplication",
     operatingSystem: "Any",
@@ -44,7 +44,7 @@ export default function Home() {
     author: {
       "@type": "Person",
       name: "Di Monk",
-      url: "https://dimonk.vercel.app",
+      url: "https://dimonk.nicovega.dev",
     },
     datePublished: "2020-01-15",
     dateModified: new Date().toISOString(),
@@ -63,10 +63,10 @@ export default function Home() {
     "@context": "https://schema.org",
     "@type": "Organization",
     name: "RUT Chile",
-    url: "https://rutificador.vercel.app",
-    logo: "https://rutificador.vercel.app/icon.svg",
+    url: "https://rutificador.nicovega.dev",
+    logo: "https://rutificador.nicovega.dev/icon.svg",
     sameAs: [
-      "https://dimonk.vercel.app"
+      "https://dimonk.nicovega.dev"
     ]
   };
 
@@ -74,12 +74,12 @@ export default function Home() {
     "@context": "https://schema.org",
     "@type": "WebSite",
     name: "RUT Chile",
-    url: "https://rutificador.vercel.app",
+    url: "https://rutificador.nicovega.dev",
     potentialAction: {
       "@type": "SearchAction",
       target: {
         "@type": "EntryPoint",
-        urlTemplate: "https://rutificador.vercel.app/validar?rut={search_term_string}"
+        urlTemplate: "https://rutificador.nicovega.dev/validar?rut={search_term_string}"
       },
       "query-input": "required name=search_term_string"
     }
@@ -93,7 +93,7 @@ export default function Home() {
         "@type": "ListItem",
         position: 1,
         name: "Inicio",
-        item: "https://rutificador.vercel.app"
+        item: "https://rutificador.nicovega.dev"
       }
     ]
   };
@@ -323,7 +323,7 @@ export default function Home() {
       <footer className="text-sm text-[#333333]/60 mt-12 text-center">
         Hecho con ❤️ por{" "}
         <Link
-          href="https://dimonk.vercel.app"
+          href="https://dimonk.nicovega.dev"
           className="text-[#0033A0] hover:text-[#1a47b8]"
           target="_blank"
           rel="noopener noreferrer"

@@ -22,7 +22,7 @@ export default function CreadorRut() {
     name: "Creador de RUT - Genera RUTs Chilenos Válidos",
     description:
       "Creador de RUT chilenos válidos. Herramienta para crear RUTs con dígito verificador correcto. Generador gratuito de RUTs.",
-    url: "https://rutificador.vercel.app/creador-rut",
+    url: "https://rutificador.nicovega.dev/creador-rut",
     applicationCategory: "UtilityApplication",
     operatingSystem: "Web Browser",
     offers: {
@@ -196,7 +196,7 @@ export default function CreadorRut() {
       <footer className="text-sm text-[#333333]/60 mt-12 text-center">
         Hecho con ❤️ por{" "}
         <Link
-          href="https://dimonk.vercel.app"
+          href="https://dimonk.nicovega.dev"
           className="text-[#0033A0] hover:text-[#1a47b8]"
           target="_blank"
           rel="noopener noreferrer"

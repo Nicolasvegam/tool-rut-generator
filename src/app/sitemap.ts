@@ -2,7 +2,7 @@ import { MetadataRoute } from "next";
 import { blogPosts } from "@/lib/blog-data";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://rutificador.vercel.app";
+  const baseUrl = "https://rutificador.nicovega.dev";
   const currentDate = new Date();
 
   // Páginas principales con sus prioridades y frecuencias de actualización

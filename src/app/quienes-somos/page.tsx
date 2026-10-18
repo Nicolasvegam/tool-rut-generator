@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Quiénes Somos - RUTs Chile",
     description: "Conoce al equipo detrás de RUTs Chile y nuestra misión",
-    url: "https://rutificador.vercel.app/quienes-somos",
+    url: "https://rutificador.nicovega.dev/quienes-somos",
     siteName: "RUTs Chile",
     locale: "es_CL",
     type: "website",
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     description: "Conoce al equipo detrás de RUTs Chile y nuestra misión",
   },
   alternates: {
-    canonical: "https://rutificador.vercel.app/quienes-somos",
+    canonical: "https://rutificador.nicovega.dev/quienes-somos",
   },
 };
 

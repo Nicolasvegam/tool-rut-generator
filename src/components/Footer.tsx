@@ -124,7 +124,7 @@ export function Footer() {
             © {currentYear} RUT Chile. Todos los derechos reservados. 
             {" "}Creado por{" "}
             <a 
-              href="https://dimonk.vercel.app" 
+              href="https://dimonk.nicovega.dev" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-[#0033A0] hover:underline"

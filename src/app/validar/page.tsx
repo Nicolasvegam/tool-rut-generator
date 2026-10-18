@@ -149,7 +149,7 @@ export default function ValidarRut() {
       <footer className="text-sm text-[#333333]/60 mt-12 text-center">
         Hecho con ❤️ por{" "}
         <Link
-          href="https://dimonk.vercel.app"
+          href="https://dimonk.nicovega.dev"
           className="text-[#0033A0] hover:text-[#1a47b8]"
           target="_blank"
           rel="noopener noreferrer"

@@ -31,4 +31,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Live Site
 
-This project is live at [rutificador.vercel.app](https://rutificador.vercel.app).
+This project is live at [rutificador.nicovega.dev](https://rutificador.nicovega.dev).

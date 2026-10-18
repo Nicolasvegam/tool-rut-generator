@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next'
 
 export default function robots(): MetadataRoute.Robots {
-  const baseUrl = 'https://rutificador.vercel.app'
+  const baseUrl = 'https://rutificador.nicovega.dev'
   
   return {
     rules: [

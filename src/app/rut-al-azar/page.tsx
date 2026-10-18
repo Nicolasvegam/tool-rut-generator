@@ -22,7 +22,7 @@ export default function RutAlAzar() {
     name: "RUT al Azar - Generador de RUTs Chilenos Aleatorios",
     description:
       "Genera RUTs chilenos completamente al azar con dígito verificador válido. Herramienta gratuita para crear RUTs aleatorios.",
-    url: "https://rutificador.vercel.app/rut-al-azar",
+    url: "https://rutificador.nicovega.dev/rut-al-azar",
     applicationCategory: "UtilityApplication",
     operatingSystem: "Web Browser",
     offers: {
@@ -191,7 +191,7 @@ export default function RutAlAzar() {
       <footer className="text-sm text-[#333333]/60 mt-12 text-center">
         Hecho con ❤️ por{" "}
         <Link
-          href="https://dimonk.vercel.app"
+          href="https://dimonk.nicovega.dev"
           className="text-[#0033A0] hover:text-[#1a47b8]"
           target="_blank"
           rel="noopener noreferrer"

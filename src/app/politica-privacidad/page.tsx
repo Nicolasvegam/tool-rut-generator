@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Política de Privacidad - RUTs Chile",
     description: "Conoce cómo protegemos tu privacidad en RUTs Chile",
-    url: "https://rutificador.vercel.app/politica-privacidad",
+    url: "https://rutificador.nicovega.dev/politica-privacidad",
     siteName: "RUTs Chile",
     locale: "es_CL",
     type: "website",
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     description: "Conoce cómo protegemos tu privacidad en RUTs Chile",
   },
   alternates: {
-    canonical: "https://rutificador.vercel.app/politica-privacidad",
+    canonical: "https://rutificador.nicovega.dev/politica-privacidad",
   },
 };
 
@@ -37,7 +37,7 @@ export default function PoliticaPrivacidadPage() {
           <p className="text-gray-600 leading-relaxed mt-2">
             En RUTs Chile, tu privacidad es nuestra prioridad. Esta Política de Privacidad 
             explica cómo recopilamos, usamos y protegemos tu información cuando utilizas 
-            nuestro sitio web rutificador.vercel.app.
+            nuestro sitio web rutificador.nicovega.dev.
           </p>
         </section>
 
@@ -232,7 +232,7 @@ export default function PoliticaPrivacidadPage() {
           </p>
           <ul className="list-none text-gray-600 space-y-2">
             <li>📧 Email: hola@nicovega.dev</li>
-            <li>🌐 Sitio web: rutificador.vercel.app</li>
+            <li>🌐 Sitio web: rutificador.nicovega.dev</li>
             <li>📍 País: Chile</li>
           </ul>
         </section>

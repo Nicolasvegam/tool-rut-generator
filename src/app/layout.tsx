@@ -12,7 +12,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://rutificador.vercel.app"),
+  metadataBase: new URL("https://rutificador.nicovega.dev"),
   title: {
     default: "Generador de RUT Chilenos Válidos - Genera 35 RUTs Online Gratis | RUT Chile",
     template: "%s | RUT Chile",
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     "validador rut chile",
     "verificar rut chileno",
     "calcular digito verificador rut",
-    "rutificador.vercel.app",
+    "rutificador.nicovega.dev",
     "crear rut chile válido",
     "rut aleatorio chile",
     "generador rut online gratis",
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
     "sistema rut chile",
     "generador identificacion chile"
   ],
-  authors: [{ name: "Di Monk", url: "https://dimonk.vercel.app" }],
+  authors: [{ name: "Di Monk", url: "https://dimonk.nicovega.dev" }],
   creator: "Di Monk",
   publisher: "Di Monk",
   formatDetection: {
@@ -65,7 +65,7 @@ export const metadata: Metadata = {
     title: "Generador de RUT Chilenos Válidos | 35 RUTs Gratis Online - RUT Chile",
     description:
       "Genera hasta 35 RUT chilenos válidos al instante con dígito verificador correcto. ✓ Copiar con 1 clic ✓ Descarga masiva ✓ La herramienta más rápida y confiable de Chile.",
-    url: "https://rutificador.vercel.app/",
+    url: "https://rutificador.nicovega.dev/",
     siteName: "RUT Chile",
     locale: "es_CL",
     type: "website",
@@ -107,10 +107,10 @@ export const metadata: Metadata = {
   },
   manifest: "/manifest.json",
   alternates: {
-    canonical: "https://rutificador.vercel.app/",
+    canonical: "https://rutificador.nicovega.dev/",
     languages: {
-      'es-CL': 'https://rutificador.vercel.app/',
-      'x-default': 'https://rutificador.vercel.app/',
+      'es-CL': 'https://rutificador.nicovega.dev/',
+      'x-default': 'https://rutificador.nicovega.dev/',
     },
   },
   verification: {

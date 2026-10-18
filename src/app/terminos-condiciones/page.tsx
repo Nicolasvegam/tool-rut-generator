@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Términos y Condiciones - RUTs Chile",
     description: "Términos y condiciones de uso del servicio RUTs Chile",
-    url: "https://rutificador.vercel.app/terminos-condiciones",
+    url: "https://rutificador.nicovega.dev/terminos-condiciones",
     siteName: "RUTs Chile",
     locale: "es_CL",
     type: "website",
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     description: "Términos y condiciones de uso del servicio RUTs Chile",
   },
   alternates: {
-    canonical: "https://rutificador.vercel.app/terminos-condiciones",
+    canonical: "https://rutificador.nicovega.dev/terminos-condiciones",
   },
 };
 
@@ -36,7 +36,7 @@ export default function TerminosCondicionesPage() {
           </p>
           <p className="text-gray-600 leading-relaxed mt-2">
             Bienvenido a RUTs Chile. Al acceder y utilizar nuestro sitio web 
-            rutificador.vercel.app, aceptas cumplir y estar sujeto a los siguientes 
+            rutificador.nicovega.dev, aceptas cumplir y estar sujeto a los siguientes 
             términos y condiciones de uso.
           </p>
         </section>
@@ -238,7 +238,7 @@ export default function TerminosCondicionesPage() {
           </p>
           <ul className="list-none text-gray-600 space-y-2">
             <li>📧 Email: hola@nicovega.dev</li>
-            <li>🌐 Sitio web: rutificador.vercel.app</li>
+            <li>🌐 Sitio web: rutificador.nicovega.dev</li>
             <li>📍 País: Chile</li>
           </ul>
         </section>

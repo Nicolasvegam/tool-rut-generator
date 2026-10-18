@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Autor del Blog - RUTs Chile",
     description: "Conoce al autor detrás del blog de RUTs Chile",
-    url: "https://rutificador.vercel.app/blog/autor",
+    url: "https://rutificador.nicovega.dev/blog/autor",
     siteName: "RUTs Chile",
     locale: "es_CL",
     type: "profile",
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     description: "Conoce al autor detrás del blog de RUTs Chile",
   },
   alternates: {
-    canonical: "https://rutificador.vercel.app/blog/autor",
+    canonical: "https://rutificador.nicovega.dev/blog/autor",
   },
 };
 

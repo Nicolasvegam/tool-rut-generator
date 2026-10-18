@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Metodología y Fuentes - RUTs Chile",
     description: "Metodología técnica y fuentes oficiales del generador de RUT",
-    url: "https://rutificador.vercel.app/metodologia",
+    url: "https://rutificador.nicovega.dev/metodologia",
     siteName: "RUTs Chile",
     locale: "es_CL",
     type: "website",
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     description: "Metodología técnica y fuentes oficiales del generador de RUT",
   },
   alternates: {
-    canonical: "https://rutificador.vercel.app/metodologia",
+    canonical: "https://rutificador.nicovega.dev/metodologia",
   },
 };
 
