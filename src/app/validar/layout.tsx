@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     title: "Validador de RUT Chileno - Verifica RUTs al Instante",
     description:
       "✅ Valida cualquier RUT chileno en segundos. Verificador 100% preciso con algoritmo oficial.",
-    url: "https://www.rutschile.com/validar",
+    url: "https://rutificador.vercel.app/validar",
     images: [
       {
         url: "/og-validar.png",

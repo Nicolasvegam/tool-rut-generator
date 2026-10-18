@@ -14,7 +14,7 @@ export function ShareButtons({
   url 
 }: ShareButtonsProps) {
   const [showToast, setShowToast] = useState(false)
-  const shareUrl = url || (typeof window !== 'undefined' ? window.location.href : 'https://www.rutschile.com')
+  const shareUrl = url || (typeof window !== 'undefined' ? window.location.href : 'https://rutificador.vercel.app')
 
   const handleShare = (platform: string) => {
     let shareLink = ''

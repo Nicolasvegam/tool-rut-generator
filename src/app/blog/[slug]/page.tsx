@@ -40,11 +40,11 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
       description: post.excerpt,
       type: "article",
       publishedTime: post.date,
-      url: `https://www.rutschile.com/blog/${post.slug}`,
+      url: `https://rutificador.vercel.app/blog/${post.slug}`,
       tags: post.tags,
     },
     alternates: {
-      canonical: `https://www.rutschile.com/blog/${post.slug}`,
+      canonical: `https://rutificador.vercel.app/blog/${post.slug}`,
     },
   };
 }
@@ -82,20 +82,20 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
     } : {
       "@type": "Organization",
       name: "RUT Chile",
-      url: "https://www.rutschile.com",
+      url: "https://rutificador.vercel.app",
     },
     publisher: {
       "@type": "Organization",
       name: "RUT Chile",
-      url: "https://www.rutschile.com",
+      url: "https://rutificador.vercel.app",
       logo: {
         "@type": "ImageObject",
-        url: "https://www.rutschile.com/icon.svg",
+        url: "https://rutificador.vercel.app/icon.svg",
       },
     },
     mainEntityOfPage: {
       "@type": "WebPage",
-      "@id": `https://www.rutschile.com/blog/${post.slug}`,
+      "@id": `https://rutificador.vercel.app/blog/${post.slug}`,
     },
     articleBody: content,
     keywords: post.tags.join(", "),

@@ -1,4 +1,4 @@
-# Generador de RUT Chileno - www.rutschile.com
+# Generador de RUT Chileno - rutificador.vercel.app
 # Última actualización: 2025-01-12
 
 # Allow all crawlers
@@ -55,7 +55,7 @@ User-agent: DotBot
 Disallow: /
 
 # Sitemap location
-Sitemap: https://www.rutschile.com/sitemap.xml
+Sitemap: https://rutificador.vercel.app/sitemap.xml
 
 # Host directive (some crawlers support this)
-Host: https://www.rutschile.com 
+Host: https://rutificador.vercel.app 

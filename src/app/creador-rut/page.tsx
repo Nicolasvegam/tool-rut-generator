@@ -22,7 +22,7 @@ export default function CreadorRut() {
     name: "Creador de RUT - Genera RUTs Chilenos Válidos",
     description:
       "Creador de RUT chilenos válidos. Herramienta para crear RUTs con dígito verificador correcto. Generador gratuito de RUTs.",
-    url: "https://www.rutschile.com/creador-rut",
+    url: "https://rutificador.vercel.app/creador-rut",
     applicationCategory: "UtilityApplication",
     operatingSystem: "Web Browser",
     offers: {

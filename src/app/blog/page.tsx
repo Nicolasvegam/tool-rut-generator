@@ -10,10 +10,10 @@ export const metadata: Metadata = {
     title: "Blog sobre RUT Chile | Guías y Tutoriales",
     description: "Todo lo que necesitas saber sobre el RUT chileno en nuestro blog especializado.",
     type: "website",
-    url: "https://www.rutschile.com/blog",
+    url: "https://rutificador.vercel.app/blog",
   },
   alternates: {
-    canonical: "https://www.rutschile.com/blog",
+    canonical: "https://rutificador.vercel.app/blog",
   },
 };
 

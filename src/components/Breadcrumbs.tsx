@@ -19,7 +19,7 @@ export function Breadcrumbs({ items }: BreadcrumbsProps) {
       "position": index + 1,
       "name": item.name,
       ...(item.url && {
-        "item": `https://www.rutschile.com${item.url}`
+        "item": `https://rutificador.vercel.app${item.url}`
       })
     }))
   }

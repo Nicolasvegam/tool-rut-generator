@@ -1,8 +1,8 @@
-# Plan de Acción SEO para www.rutschile.com 🚀
+# Plan de Acción SEO para rutificador.vercel.app 🚀
 
 ## Resumen Ejecutivo
 
-Este documento presenta un plan integral de mejoras SEO para posicionar www.rutschile.com como el líder del mercado en generadores de RUT chilenos. El plan incluye mejoras técnicas, de contenido y estratégicas basadas en las tendencias SEO 2025.
+Este documento presenta un plan integral de mejoras SEO para posicionar rutificador.vercel.app como el líder del mercado en generadores de RUT chilenos. El plan incluye mejoras técnicas, de contenido y estratégicas basadas en las tendencias SEO 2025.
 
 ## 📊 Análisis Competitivo
 
@@ -13,7 +13,7 @@ Este documento presenta un plan integral de mejoras SEO para posicionar www.ruts
 4. **payca.cl/utils/ruts/** - Parte de suite de herramientas
 5. **cuidaelrut.cl** - Enfoque en privacidad
 
-### Ventajas Competitivas de rutschile.com:
+### Ventajas Competitivas de rutificador.vercel.app:
 - ✅ Dominio más corto y memorable
 - ✅ Interfaz más limpia y moderna
 - ✅ Mejor estructura de navegación
@@ -76,7 +76,7 @@ module.exports = {
 ```typescript
 // app/sitemap.ts
 export default function sitemap() {
-  const baseUrl = 'https://www.rutschile.com'
+  const baseUrl = 'https://rutificador.vercel.app'
   
   return [
     {
@@ -100,7 +100,7 @@ Crawl-delay: 0
 User-agent: GPTBot
 Allow: /
 
-Sitemap: https://www.rutschile.com/sitemap.xml
+Sitemap: https://rutificador.vercel.app/sitemap.xml
 ```
 
 ### 2. MEJORAS DE CONTENIDO (Prioridad: ALTA)
@@ -181,8 +181,8 @@ Sitemap: https://www.rutschile.com/sitemap.xml
 // Agregar en layout.tsx
 <meta name="geo.region" content="CL" />
 <meta name="geo.placename" content="Chile" />
-<link rel="alternate" hreflang="es-CL" href="https://www.rutschile.com" />
-<link rel="alternate" hreflang="x-default" href="https://www.rutschile.com" />
+<link rel="alternate" hreflang="es-CL" href="https://rutificador.vercel.app" />
+<link rel="alternate" hreflang="x-default" href="https://rutificador.vercel.app" />
 ```
 
 #### 5.2 Google My Business
@@ -342,7 +342,7 @@ Sitemap: https://www.rutschile.com/sitemap.xml
 
 ## 🎬 Conclusión
 
-Este plan de acción SEO está diseñado para establecer www.rutschile.com como la autoridad definitiva en generación y validación de RUTs chilenos. La implementación sistemática de estas mejoras resultará en:
+Este plan de acción SEO está diseñado para establecer rutificador.vercel.app como la autoridad definitiva en generación y validación de RUTs chilenos. La implementación sistemática de estas mejoras resultará en:
 
 - Mayor visibilidad en búsquedas
 - Mejor experiencia de usuario

@@ -22,7 +22,7 @@ export default function Home() {
     alternativeName: "RUT Chile Generator",
     description:
       "Genera hasta 35 RUT chilenos válidos instantáneamente con dígito verificador correcto. Copiar con 1 clic, descarga masiva, 100% gratis.",
-    url: "https://www.rutschile.com",
+    url: "https://rutificador.vercel.app",
     applicationCategory: "UtilityApplication",
     applicationSubCategory: "GeneratorApplication",
     operatingSystem: "Any",
@@ -44,7 +44,7 @@ export default function Home() {
     author: {
       "@type": "Person",
       name: "Di Monk",
-      url: "https://www.dimonk.com",
+      url: "https://dimonk.vercel.app",
     },
     datePublished: "2020-01-15",
     dateModified: new Date().toISOString(),
@@ -63,10 +63,10 @@ export default function Home() {
     "@context": "https://schema.org",
     "@type": "Organization",
     name: "RUT Chile",
-    url: "https://www.rutschile.com",
-    logo: "https://www.rutschile.com/icon.svg",
+    url: "https://rutificador.vercel.app",
+    logo: "https://rutificador.vercel.app/icon.svg",
     sameAs: [
-      "https://www.dimonk.com"
+      "https://dimonk.vercel.app"
     ]
   };
 
@@ -74,12 +74,12 @@ export default function Home() {
     "@context": "https://schema.org",
     "@type": "WebSite",
     name: "RUT Chile",
-    url: "https://www.rutschile.com",
+    url: "https://rutificador.vercel.app",
     potentialAction: {
       "@type": "SearchAction",
       target: {
         "@type": "EntryPoint",
-        urlTemplate: "https://www.rutschile.com/validar?rut={search_term_string}"
+        urlTemplate: "https://rutificador.vercel.app/validar?rut={search_term_string}"
       },
       "query-input": "required name=search_term_string"
     }
@@ -93,7 +93,7 @@ export default function Home() {
         "@type": "ListItem",
         position: 1,
         name: "Inicio",
-        item: "https://www.rutschile.com"
+        item: "https://rutificador.vercel.app"
       }
     ]
   };
@@ -323,7 +323,7 @@ export default function Home() {
       <footer className="text-sm text-[#333333]/60 mt-12 text-center">
         Hecho con ❤️ por{" "}
         <Link
-          href="https://www.dimonk.com"
+          href="https://dimonk.vercel.app"
           className="text-[#0033A0] hover:text-[#1a47b8]"
           target="_blank"
           rel="noopener noreferrer"

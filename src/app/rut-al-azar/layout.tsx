@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     title: "RUT al Azar - Generador de RUTs Chilenos Aleatorios",
     description:
       "Genera RUTs chilenos completamente al azar con dígito verificador válido. Herramienta gratuita para crear RUTs aleatorios.",
-    url: "https://www.rutschile.com/rut-al-azar",
+    url: "https://rutificador.vercel.app/rut-al-azar",
     images: [
       {
         url: "/og-azar.png",

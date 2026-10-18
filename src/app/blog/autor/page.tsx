@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Autor del Blog - RUTs Chile",
     description: "Conoce al autor detrás del blog de RUTs Chile",
-    url: "https://www.rutschile.com/blog/autor",
+    url: "https://rutificador.vercel.app/blog/autor",
     siteName: "RUTs Chile",
     locale: "es_CL",
     type: "profile",
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     description: "Conoce al autor detrás del blog de RUTs Chile",
   },
   alternates: {
-    canonical: "https://www.rutschile.com/blog/autor",
+    canonical: "https://rutificador.vercel.app/blog/autor",
   },
 };
 
@@ -153,7 +153,7 @@ export default function AutorPage() {
             contenido.
           </p>
           <p className="text-gray-600">
-            📧 Escríbenos a: <span className="font-medium">editorial@rutschile.com</span>
+            📧 Escríbenos a: <span className="font-medium">hola@nicovega.dev</span>
           </p>
         </section>
 
